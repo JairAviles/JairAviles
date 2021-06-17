@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning CS topics to cracking the code interview 
 - 💬 Ask me about anything you would like to chat
 - 📫 How to reach me: Send me an email to <hi@jairaviles.mx>
-- 😄 Pronouns: JY-er
+- 😄 Pronouns: JY-ear
 - ⚡ Fun fact: Expat since 2015
 - 🌎 Full resume: <http://jairaviles.mx>
