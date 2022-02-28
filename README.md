@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as Fullstack developer for a SF based company
+- 🔭 I’m currently working as Fullstack developer at [@segmentio](https://github.com/segmentio) doing some AppSec stuff!
 - 💬 Ask me about anything you would like to chat
 - 📫 How to reach me: Send me an email to <hi@jairaviles.mx>
 - 😄 Correct name pronunciation: JY-ear
