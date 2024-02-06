@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as Senior Software Engineer at [@segmentio](https://github.com/segmentio) doing some Security Features stuff!
+- 🔭 I’m currently working as Senior Software Engineer at [@segmentio](https://github.com/segmentio) doing some Security Features and CX services stuff!
 - 💬 Ask me about anything you would like to chat
 - 📫 How to reach me: Send me an email to <hi@jairaviles.mx>
 - 😄 Correct name pronunciation: Jah-ear
